@@ -1,0 +1,4 @@
+D:\Cloud\Epi work\EIPLS\UNITY\Spider Stable++\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+D:\Cloud\Epi work\EIPLS\UNITY\Spider Stable++\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm
+D:\Cloud\Epi work\EIPLS\UNITY\Spider Stable++\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;arm
+D:\Cloud\Epi work\EIPLS\UNITY\Spider Stable++\App\Origami\Origami.csproj;arm
